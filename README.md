@@ -1,4 +1,7 @@
-# test coverage for  [awssum (v1.2.0)](http://awssum.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-awssum.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-awssum) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-awssum.svg)](https://travis-ci.org/npmtest/node-npmtest-awssum)
+# npmtest-awssum
+
+#### basic test coverage for  [awssum (v1.2.0)](http://awssum.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-awssum.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-awssum) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-awssum.svg)](https://travis-ci.org/npmtest/node-npmtest-awssum)
+
 #### NodeJS module to aid talking to Web Service APIs. Requires plugins.
 
 [![NPM](https://nodei.co/npm/awssum.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/awssum)
